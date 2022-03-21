@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I am very handsome witcher 😈. 
 - Pesho is Hack God 😎 ==> https://github.com/peshopbs2.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsarEmil-I&bg_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsarEmil-I&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsarEmil-I)](https://github.com/anuraghazra/github-readme-stats)
 
