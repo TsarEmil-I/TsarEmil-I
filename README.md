@@ -4,7 +4,7 @@
 - 📫 How to reach me: eanestiev58@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am very handsome witcher 😈. 
-- Pesho is Hack God 😎 ==> https://github.com/peshopbs2.
+- Pesho, The Hack God 😎 ==> https://github.com/peshopbs2.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsarEmil-I&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
