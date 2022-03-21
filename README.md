@@ -6,6 +6,9 @@
 - ⚡ Fun fact: I am very handsome witcher 😈. 
 - Pesho is Hack God 😎 ==> https://github.com/peshopbs2.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsarEmil-I)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **TsarEmil-I/TsarEmil-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
