@@ -1,6 +1,6 @@
 ### 👋🇧🇬 Hello/Hallo/Zdraveyte/Merhaba Мartyrs 😝😈.
 - 🔭 I’m currently working on: ---- 😖😫.
-- 🌱 I’m currently learning: C#, HTML, CSS, JavaScript and JSON.
+- 🌱 I’m currently learning: C#, HTML, CSS, JavaScript and Flutter (Dart).
 - 📫 How to reach me: eanestiev58@gmail.com
 - Pesho, The Hack God 😎 ==> https://github.com/peshopbs2.
 
