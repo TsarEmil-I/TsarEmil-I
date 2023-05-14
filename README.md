@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on: ---- 😖😫.
 - 🌱 I’m currently learning: C#, HTML, CSS, JavaScript and JSON.
 - 📫 How to reach me: eanestiev58@gmail.com
-- ⚡ Fun fact: I am very handsome witcher 😈🔮. 
 - Pesho, The Hack God 😎 ==> https://github.com/peshopbs2.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsarEmil-I&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
